@@ -1,4 +1,4 @@
-# GROUP-1.2-COMPUTER-PROGRAMMING-C++ (BTECH ELECTRICAL ENGINEERING)
+#BEE208-Electricity-Bill-Calculator-System
 Electricity bill calculator project using C++
      ## STUDENTS INFORMATION ##**
    Name                         Student's ID
