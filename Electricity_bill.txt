@@ -1,0 +1,21 @@
+Enter customer name: Kwabena Sarfo
+Enter meter number: MTR-30
+Enter previous reading (kWh): 1250
+Enter current reading (kWh): 1385
+Enter tariff rate per kWh: 1.20
+Enter fixed service charge: 10
+
+=========================================
+------- ELECTRICITY BILL REPORT -------
+=========================================
+Customer Name: Kwabena Sarfo
+Meter Number: MTR-30
+Previous Reading: 1250 kWh
+Current Reading: 1385 kWh
+Units Consumed: 135 kWh
+Energy Charge: GHS 162
+Fixed Service Charge: GHS 10
+Total Bill: GHS 172
+=========================================
+CONSUMPTION STATUS: Moderate consumption
+=========================================
