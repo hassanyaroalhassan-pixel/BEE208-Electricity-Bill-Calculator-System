@@ -183,7 +183,7 @@ Bill record saved to electricity_bill.txt
 | 8 | Mary Pokua | 01242825B |
 | 9 | Samuel Hayford | 01244691B |
 | 10 | Baidoo Godfred | 01245515B |
-
+| 11 | Terpertey Francis Teye | 01240050B |
 ---
 
 ## GitHub Repository
