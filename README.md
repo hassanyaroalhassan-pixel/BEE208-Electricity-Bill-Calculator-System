@@ -157,7 +157,7 @@ Bill record saved to electricity_bill.txt
 
 **Project:** Mid-Semester Practical Project Examination
 
-**Project Question:** 2
+**Project Question:** 1.2
 
 **Project Title:** Electricity Bill Calculator System
 
